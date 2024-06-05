@@ -1,4 +1,3 @@
-import React from 'react'
 import TaskForm from './components/task-form'
 import TaskList from './components/task-list'
 import { TaskProvider } from './util/task-provider'
